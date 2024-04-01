@@ -17,3 +17,12 @@ Ch03-Keras-and-Data-Retrieval/data/flower_images/flower_images/0005.png
 Ch03-Keras-and-Data-Retrieval/tensorflow_datasets/caltech101/3.0.2/label.labels.txt
 Ch03-Keras-and-Data-Retrieval/tensorflow_datasets/cifar10/3.0.2/label.labels.txt
 Ch03-Keras-and-Data-Retrieval/tensorflow_datasets/downloads/extracted/TAR_GZ.101_ObjectCategories.tar.gz/101_ObjectCategories/BACKGROUND_Google/tmp
+*.JPEG
+*.txt
+*.log
+*.log
+*.v2
+*.log
+*.log
+Ch06-Image-Classification-with-CNNs/data/class_indices
+*.log
